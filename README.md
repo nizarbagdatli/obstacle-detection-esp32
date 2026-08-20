@@ -1,1 +1,0 @@
-# obstacle-detection-esp32
